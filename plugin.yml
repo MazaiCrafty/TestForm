@@ -1,0 +1,14 @@
+name: TestForm
+main: form\Main
+version: 1.0
+api:
+ - 4.0.0
+load: POSTWORLD
+website: https://github.com/MazaiCrafty/TestForm
+depend:
+ - FormAPI
+author: MazaiCrafty
+commands:
+ test:
+  usage: "/test"
+  description: "Opened Form"
